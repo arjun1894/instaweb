@@ -1,0 +1,10 @@
+.menuBar{
+	color: white;
+	text-align: center;
+}
+.button{
+	background-color: gray;
+	width: 24%;
+	margin: 0 .5%;
+	float: left;
+}
