@@ -28,8 +28,7 @@ img{
 	text-align: center;
 	float: left;
 	list-style: none;
-	width: 19.8%;
-	padding: .1%;
+	width: 20%;
 	height: 100%;
 	background-color: #0b1455;
 	opacity: 1;
@@ -42,7 +41,7 @@ img{
 }
 .bottom-menu ul a li img
 {
-	max-height: 2.5em;
+	max-height: 5em;
 	padding-top: .2em;
 }
 
