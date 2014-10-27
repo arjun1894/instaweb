@@ -30,19 +30,19 @@ img{
 	list-style: none;
 	width: 20%;
 	height: 100%;
-	background-color: #0b1455;
+	background-color: black;
 	opacity: 1;
 	border-bottom: 2px solid black;
 }
-.bottom-menu ul a li.selected
+.bottom-menu ul a img.selected
 {
 	opacity: 1;
 	border-bottom: 5px solid red;
-	border-bottom-color: #0b1455
+	background-color: #0b1455
 }
 .bottom-menu ul a li img
 {
-	max-height: 10em;
+	max-height: 3em;
 	padding-top: 0em;
 }
 
